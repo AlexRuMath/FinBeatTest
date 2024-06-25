@@ -1,0 +1,6 @@
+@FinBeatTest_HostAddress = http://localhost:5048
+
+GET {{FinBeatTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
